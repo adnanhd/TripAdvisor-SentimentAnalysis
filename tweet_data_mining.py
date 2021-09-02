@@ -21,8 +21,8 @@ warnings.filterwarnings("ignore")
 seaborn.set(font_scale=1.5)
 seaborn.set_style("dark")
 
-consumer_key = "LW8VtSnr0zROVZqJHm820SF09"
-consumer_secret = "7i2zbvcNokrCsrUvmqyM3r2kYveAPChihSBVXNIpkvtjXFgqFk"
+consumer_key = "XXXXXXXXXXXXx"
+consumer_secret = "XXXXXXXXXXXXXXx"
 auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
 api = tweepy.API(auth)
 
